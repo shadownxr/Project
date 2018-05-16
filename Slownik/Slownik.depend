@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526067524 source:c:\users\shadownxr\downloads\studia2\programy\projekt\slownik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
